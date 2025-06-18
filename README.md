@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello World! I am Dong👋
 
-<!--
-**dl32958/dl32958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Welcome to my Git Repository!
 
-Here are some ideas to get you started:
+I'm an enthusiastic programmer, working on full-stack development, Computer Vision, and Natural Language Processing.  
+I find joy in transforming complex problems into elegant solutions that make life simpler.  
+I embrace every challenge as a chance to grow.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Seattle, WA
+- 👨‍💻 Computer Software Engineering @ Northeastern University
+- 🌱 Growing through curiosity, one commit at a time
+- 🔍 Believing that the best code tells a story worth reading
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ludong0828/)
