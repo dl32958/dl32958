@@ -10,5 +10,8 @@ I embrace every challenge as a chance to grow.
 - 👨‍💻 Computer Software Engineering @ Northeastern University
 - 🌱 Growing through curiosity, one commit at a time
 - 🔍 Believing that the best code tells a story worth reading
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ludong0828/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ludong0828/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+</p>
